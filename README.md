@@ -10,4 +10,4 @@ O projeto se trata de uma página de cadastro simples feita com HTML5, CSS3 e SA
 * A tela não cumpre com funções externas para uma validação de cadastro real.
 
 # Link
-Aproveite e visualize esse projeto <a href="https://lucas-aguiar-la.github.io/Tela-de-cadastro/screen/index" target="_blank">clicando aqui</a>.
+Aproveite e visualize esse projeto <a href="https://lucas-aguiar-la.github.io/Tela-de-cadastro/screen/index", target="_blank">clicando aqui</a>.
